@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://xhrist14n.github.io
+title: xhrist14n
+tagline: Informacion sobre javascript y frameworks web
+description: Informacion sobre javascript y frameworks web
+paginate: 5

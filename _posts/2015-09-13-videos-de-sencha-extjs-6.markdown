@@ -3,7 +3,7 @@ published: true
 title: Videos de Sencha ExtJS 6 
 layout: post
 ---
->Videos de la LIsta de reproduccion Sencha ExtJS 6
+>Videos de la Lista de reproduccion Sencha ExtJS 6
 
 
 [Video 1](https://www.youtube.com/watch?v=_MuCNm4l48E)
